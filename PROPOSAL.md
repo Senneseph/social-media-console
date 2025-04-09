@@ -1,0 +1,1 @@
+create another pwa-self-running app that gives you insight into your social media presence, helps coordinate content distribution to your accounts and keeps you updated about their activity. Tracks growth, reach, etc through standardized, pass-through statistics.
